@@ -4,7 +4,7 @@
 - SERVER : Apache 2.4
 - Language : Php 8
 - Package
--- git 2.31
--- composer 2.1
--- epel repository 7
--- remi repository 7
+1. git 2.31
+2. composer 2.1
+3. epel repository 7
+4. remi repository 7
